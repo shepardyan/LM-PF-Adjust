@@ -16,7 +16,7 @@ A robust power flow solver implementing a Levenberg-Marquardt inspired method wi
 ```bash
 pip install numpy scipy matplotlib pypower
 # For sparse QR decomposition (required by active subproblem solver):
-pip install sparseq
+pip install sparseqr
 ```
 
 ## Usage
